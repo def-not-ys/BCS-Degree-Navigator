@@ -1,0 +1,159 @@
+<h2>Electrical & Computer Engineering, Faculty of Applied Science</h2>
+		
+			<h3>CPEN: Computer Engineering</h3>
+		
+
+
+<dl class="double">
+
+	<dt><a name="211"></a>CPEN 211 (5)  <b>Introduction to Microcomputers</b></dt>
+	<dd>Boolean algebra; combinational and sequential circuits; organization and operation of microcomputers, memory addressing modes, representation of information, instruction sets, machine and assembly language programming, systems programs, I/O structures, I/O interfacing and I/O programming, introduction to digital system design using microcomputers. Credit will be granted for only one of CPEN 211, CPEN 312, EECE 256, EECE 259 or EECE 355. <em>This course is not eligible for Credit/D/Fail grading.</em> [4-2-2*]<br > <em>Prerequisite:</em> APSC 160.<br> 
+	</dd>
+
+	<dt><a name="221"></a>CPEN 221 (4)  <b>Principles of Software Construction</b></dt>
+	<dd>Design, implementation, reasoning about software systems: abstraction and specification of software, testing, verification, abstract data types, object-oriented design, type hierarchies, concurrent software design. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-2-2*]<br > <em>Prerequisite:</em> APSC 160.<br> 
+	</dd>
+
+	<dt><a name="223"></a>CPEN 223 (4)  <b>Software Design for Engineers</b></dt>
+	<dd>Introduction to robust software design: static typing, procedural specifications, unit testing, black-box & white-box tests, user- defined data types (representations, invariants, abstraction functions), data abstractions, communicating design (e.g., UML). <em>This course is not eligible for Credit/D/Fail grading.</em> [3-2-0]<br > <em>Prerequisite:</em> APSC 160.<br> 
+	</dd>
+
+	<dt><a name="281"></a>CPEN 281 (3)  <b>Technical Communication</b></dt>
+	<dd>Written and oral communication in engineering. Technical description, report preparation, business correspondence, and oral presentation of technical material. Restricted to students in second year of Electrical and Computer Engineering programs. Credit will be granted for only one of ELEC 281, CPEN 281, BMEG 201 or APSC 201. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-0-0]<br > <em>Prerequisite:</em> One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150.<br> 
+	</dd>
+
+	<dt><a name="291"></a>CPEN 291 (6)  <b>Computer Engineering Design Studio I</b></dt>
+	<dd>Design projects involving hardware (electronic devices and circuits, microcomputers) and software. <em>This course is not eligible for Credit/D/Fail grading.</em> [2-6-0]<br > <em>Prerequisite:</em> One of EECE 259, CPEN 211.<br> <em>Corequisite:</em> One of EECE 251, ELEC 201.<br> 
+	</dd>
+
+	<dt><a name="311"></a>CPEN 311 (4)  <b>Digital Systems Design</b></dt>
+	<dd>Advanced combinational and sequential electronic system design. Hardware specification, modelling, and simulation using hardware description languages (HDLs) and CAD tools. Design with programmable logic including FPGA's. Applications include complex state machines, microcontrollers, arithmetic circuits, and interface units. Credit will be granted for only one of EECE 353, CPEN 311 and EECE 379. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-3-0]<br > <em>Prerequisite:</em> One of EECE 259, CPEN 211, EECE 355, CPEN 312.<br> 
+	</dd>
+
+	<dt><a name="312"></a>CPEN 312 (3)  <b>Digital Systems and Microcomputers</b></dt>
+	<dd>Data representation in digital computers; boolean algebra; the design and optimization and implementation of combinatorial and sequential circuits; modern digital circuit technologies; memory and programmable logic devices; organization and operation of microcomputers; data/address bus organization; input-output interfacing. Credit will be granted for only one of EECE 355, CPEN 312, EECE 259, CPEN 211, and EECE 256. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-2*-0]<br > <em>Prerequisite:</em> One of EECE 251, ELEC 201, EECE 252, ELEC 204, EECE 263, ELEC 203, MECH 221.<br> 
+	</dd>
+
+	<dt><a name="321"></a>CPEN 321 (4)  <b>Software Engineering</b></dt>
+	<dd>Engineering practices for the development of non-trivial software-intensive systems including requirements specification, software architecture, implementation, verification, and maintenance. Iterative development. Recognized standards, guidelines, and models. Credit will only be granted for only one of CPSC 310, EECE 310, or CPEN 321. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-2-0]<br > <em>Prerequisite:</em> One of EECE 210, CPEN 221, CPSC 210, EECE 309.<br> 
+	</dd>
+
+	<dt><a name="331"></a>CPEN 331 (4)  <b>Operating Systems</b></dt>
+	<dd>Operating systems, their design and their implementation. Process concurrency, synchronization, communication and scheduling. Device drivers, memory management, virtual memory, file systems, networking and security. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-3-0]<br > <em>Prerequisite:</em> CPSC 261 and one of EECE 210, CPEN 221, EECE 309.<br> 
+	</dd>
+
+	<dt><a name="333"></a>CPEN 333 (3)  <b>System Software Engineering</b></dt>
+	<dd>Operating systems principles, real-time systems, principles of concurrent and multi-threaded programming, information structures, introduction to object oriented analysis, design, and modelling using UML, testing of software systems. <em>This course is not eligible for Credit/D/Fail grading.</em> [2-1-1]<br > <em>Prerequisite:</em> One of CPSC 259, CPSC 260 and one of EECE 259, CPEN 211, EECE 355, CPEN 312.<br> 
+	</dd>
+
+	<dt><a name="391"></a>CPEN 391 (6)  <b>Computer Engineering Design Studio II</b></dt>
+	<dd>Design and implementation of a hardware platform and software design and implementation at the operating system and application layers.  Project management skills. Effective presentations. <em>This course is not eligible for Credit/D/Fail grading.</em> [2-6-0]<br > <em>Prerequisite:</em> One of CPEN 291, ELEC 291, ELEC 292, EECE 281 and one of EECE 353, CPEN 311.<br> <em>Corequisite:</em> One of EECE 315, CPEN 331.<br> 
+	</dd>
+
+	<dt><a name="400"></a>CPEN 400 (1-8) d <b>Topics in Computer Engineering</b></dt>
+	<dd>Lectures or projects on subjects of current interest. <br > 
+	</dd>
+
+	<dt><a name="411"></a>CPEN 411 (4)  <b>Computer Architecture</b></dt>
+	<dd>Modern processors, GPUs, and memory hierarchies; quantitative principles and instruction set design; pipelining, superscalar issue, out-of-order execution, branch prediction and speculation; memory hierarchies, caches, virtual addressing, prefetching, coherence, and consistency; multicores, VLIW, on-chip networks, and other advanced architectures. Credit will be granted for only one of CPSC 313 or EECE 476 or CPEN 411. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-0-2]<br > <em>Prerequisite:</em> Either (a) one of EECE 353, CPEN 311 or (b) one of EECE 355, CPEN 312.<br> 
+	</dd>
+
+	<dt><a name="412"></a>CPEN 412 (4)  <b>Microcomputer Systems Design</b></dt>
+	<dd>Microprocessor and system buses; advanced I/O methods; priority interrupts; event/exception handling; serial I/O; computer networking; memory system design; interaction of hardware and software, microprocessor comparison, testability issues, safety critical systems. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-2-0]<br > <em>Prerequisite:</em> One of EECE 353, CPEN 311 and one of EECE 259, CPEN 211, EECE 355, CPEN 312.<br> 
+	</dd>
+
+	<dt><a name="421"></a>CPEN 421 (4)  <b>Software Project Management</b></dt>
+	<dd>Advanced project planning, cost estimation and scheduling. Project management tools. Factors influencing productivity and success. Productivity metrics. Analysis of options and risk. Tools. Case studies. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-0-2]<br > <em>Prerequisite:</em> One of EECE 310, CPEN 321, CPSC 310.<br> 
+	</dd>
+
+	<dt><a name="422"></a>CPEN 422 (4)  <b>Software Testing and Analysis</b></dt>
+	<dd>Different levels of testing including unit, integration, system, performance and regression levels. Requirements flowdown. Problem tracking. Coverage criteria. Static methods. Tools support. Specialized techniques. Assessment of correctness, reliability, safety. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-2-0]<br > <em>Prerequisite:</em> One of EECE 210, CPEN 221, EECE 309, EECE 310, CPEN 321, CPSC 210, CPSC 310.<br> 
+	</dd>
+
+	<dt><a name="423"></a>CPEN 423 (4)  <b>Software Architecture</b></dt>
+	<dd>Software architecture as a bridge from requirements to implementation. Architectural description and patterns. Iterative development. Use of commercial off-the-shelf products. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-2-0]<br > <em>Prerequisite:</em> One of EECE 210, CPEN 221, EECE 309, EECE 310, CPEN 321, CPSC 310.<br> 
+	</dd>
+
+	<dt><a name="431"></a>CPEN 431 (4)  <b>Design of Distributed Software Applications</b></dt>
+	<dd>Communications, processes, naming, synchronization, consistency and replication, fault tolerance, object-based middleware, and security technologies for distributed applications. [3-2-0]<br > <em>Prerequisite:</em> One of EECE 315, CPEN 331, CPSC 313 and one of EECE 210, CPEN 221, EECE 309, CPSC 210.<br> <em>Corequisite:</em> One of EECE 358, ELEC 331, CPSC 317.<br> 
+	</dd>
+
+	<dt><a name="432"></a>CPEN 432 (4)  <b>Real-time System Design</b></dt>
+	<dd>Multi-tasking; interrupt-driven systems; task scheduling; schedulability analysis; inter-process communication and synchronization; resource management; performance measurement; hardware/software integration; hardware/software tradeoffs; system reliability. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-0-2]<br > <em>Prerequisite:</em> One of EECE 314, CPEN 333, EECE 315, CPEN 331, CPSC 313.<br> 
+	</dd>
+
+	<dt><a name="441"></a>CPEN 441 (4)  <b>Human Computer Interfaces in Engineering Design</b></dt>
+	<dd>Practical issues for interfaces for modern software. Task analysis, user modelling, usability engineering, representations, metaphors, prototyping tools. Applications: interactive multimedia systems, engineering, scientific visualization, engineering design. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-1-2*]<br > <em>Prerequisite:</em> One of CPSC 260, CPSC 221 and one of EECE 210, CPEN 221, EECE 309, CPSC 210, EECE 314, CPEN 333.<br> 
+	</dd>
+
+	<dt><a name="442"></a>CPEN 442 (4)  <b>Introduction to Computer Security</b></dt>
+	<dd>Security risks, threats, and vulnerabilities from technical perspectives; confidentiality, integrity, and hybrid policies; cryptography, access control, assurance, accountability, and engineering of secure systems. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-2-0]<br > <em>Prerequisite:</em> One of EECE 314, CPEN 333, EECE 315, CPEN 331, CPSC 313.<br> 
+	</dd>
+
+	<dt><a name="481"></a>CPEN 481 (3)  <b>Economic Analysis of Engineering Projects</b></dt>
+	<dd>Time-money relationships; economic analysis of alternatives including the effects of interest rates, inflation, depreciation, taxation and uncertainty; cost estimation and budgeting; financial analysis of engineering operations. <em>This course is not eligible for Credit/D/Fail grading.</em> [3-0-0]<br > <em>Equivalency:</em> EECE 450.
+	</dd>
+
+	<dt><a name="491"></a>CPEN 491 (10)  <b>Computer Engineering Capstone Design Project</b></dt>
+	<dd>Design, analysis, and implementation of solutions in response to a real world computer engineering problem, provided by industry, research laboratories, or other suitable entities.  Includes coverage of topics such as project management. <em>This course is not eligible for Credit/D/Fail grading.</em> [2-6-0; 2-6-0]<br > <em>Prerequisite:</em> One of CPEN 391, EECE 381.<br> 
+	</dd>
+
+	<dt><a name="492"></a>CPEN 492 (10)  <b>Software Engineering Capstone Design Project</b></dt>
+	<dd>Design, analysis, and implementation of solutions in response to a real world software engineering problem.  Projects are provided by industry, research laboratories, or other suitable entities.  Includes coverage of topics such as project management. <em>This course is not eligible for Credit/D/Fail grading.</em> [2-6-0; 2-6-0]<br > <em>Prerequisite:</em> One of CPEN 391, EECE 381.<br> 
+	</dd>
+
+	<dt><a name="499"></a>CPEN 499 (3/6) c <b>Undergraduate Thesis</b></dt>
+	<dd>Project in electrical engineering or computer engineering involving design, experimental and/or computer simulation work as selected from topics supplied by faculty members. An individual project thesis is to be prepared according to specifications available from the departmental office. <em>This course is not eligible for Credit/D/Fail grading.</em> [0-6-0] or [0-12-0]<br > 
+	</dd>
+
+	<dt><a name="502"></a>CPEN 502 (3)  <b>Architecture for Learning Systems</b></dt>
+	<dd>Credit will only be given for one of CPEN 502 or EECE 592. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="511"></a>CPEN 511 (3)  <b>Advanced Computer Architecture</b></dt>
+	<dd>Credit will only be given for one of CPEN 511 or EECE 527. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="512"></a>CPEN 512 (3)  <b>Parallel and Reconfigurable Computing</b></dt>
+	<dd>Credit will only be given for one of CPEN 512 or EECE 528. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="513"></a>CPEN 513 (3)  <b>CAD Algorithms for Integrated Circuits</b></dt>
+	<dd>Credit will only be given for one of CPEN 513 or EECE 583 <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="521"></a>CPEN 521 (3)  <b>Topics in Software Engineering</b></dt>
+	<dd>Credit will only be given for one of CPEN 521 or EECE 511. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="522"></a>CPEN 522 (3)  <b>Software Verification and Testing</b></dt>
+	<dd>Credit will only be given for one of CPEN 522 or EECE 514. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="523"></a>CPEN 523 (3)  <b>Software Project Management</b></dt>
+	<dd>Credit will only be given for one of CPEN 523 or EECE 543 or CPEN 421. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="524"></a>CPEN 524 (3)  <b>Principles of Mobile Application Development and Analysis</b></dt>
+	<dd> <em>This course is not eligible for Credit/D/Fail grading.</em> 
+	</dd>
+
+	<dt><a name="533"></a>CPEN 533 (3)  <b>Error Resilient Computing Systems</b></dt>
+	<dd>Credit will only be given for one of CPEN 533 or EECE 513. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="541"></a>CPEN 541 (3)  <b>Human Interface Technologies</b></dt>
+	<dd>Credit will only be given for one of CPEN 541 or EECE 518. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="542"></a>CPEN 542 (3)  <b>Cybersecurity</b></dt>
+	<dd>Credit will only be given for one of CPEN 542 or EECE 512. <em>This course is not eligible for Credit/D/Fail grading.</em> <br > 
+	</dd>
+
+	<dt><a name="642"></a>CPEN 642 (3)  <b>Cybersecurity Research Seminar</b></dt>
+	<dd> <em>This course is not eligible for Credit/D/Fail grading.</em> <em>Prerequisite:</em> by permission of the instructor.<br> 
+	</dd>
+
+</dl> 
+
+data source: view-source:http://www.calendar.ubc.ca/vancouver/courses.cfm?page=name&institution=2&code=CPEN

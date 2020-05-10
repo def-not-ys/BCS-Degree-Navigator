@@ -1,0 +1,8 @@
+Elective 301 CPSE elective 3
+Elective 302 CPSE elective 3
+Elective 401 CPSE elective 3
+Elective 402 CPSE elective 3
+Elective 301 ELEC elective 3
+Elective 302 ELEC elective 3
+Elective 303 ELEC elective 3
+Elective 304 ELEC elective 3
